@@ -96,8 +96,6 @@ I specialize in building robust projects and writing code that does all the heav
 
 <img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -118,5 +116,3 @@ I specialize in building robust projects and writing code that does all the heav
 <div align="left"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
