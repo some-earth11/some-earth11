@@ -91,14 +91,8 @@ I specialize in building robust projects and writing code that does all the heav
 
 <br/>  
 
- 
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-
-
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 <br/>  
 
