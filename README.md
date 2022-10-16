@@ -92,7 +92,7 @@ I specialize in building robust projects and writing code that does all the heav
 <br/>  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
 
 <br/>  
 
