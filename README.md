@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer in the making who has turned years of freelancing into a full-time career. Being a developer allows me to not only develop client websites but also develop it with cutting edge front-end design.
+I’m a full-stack developer in the making who has turned his hobbies into a full-time career. Being a developer allows me to not only develop client websites but also develop it with cutting edge front-end design.
 
 I specialize in building robust projects and writing code that does all the heavy lifting for your website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
   
