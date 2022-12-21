@@ -1,6 +1,6 @@
 ## <div align="center">Hey 👋, I'm Samarth Kumar!</div>  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/some-earth11/langs)](https://githubtrends.io)
 
+<div align="center">
 <a href="https://github.com/some-earth11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,6 +16,8 @@
 <a href="https://medium.com/@some-earth11" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  
+</div>
   
 
 
@@ -89,24 +91,17 @@ I specialize in building robust projects and writing code that does all the heav
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
-
-<br/>  
-
-  
-
-<br/>  
-
+<br/> 
+<br/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=some-earth11&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="left"></div>
-<br />
-
+<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+<img src="https://api.githubtrends.io/user/svg/some-earth11/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=bright_lights"  />
+</div>
+<br/>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=some-earth11&&style=flat-square" />
+</div>
