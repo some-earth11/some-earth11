@@ -1,5 +1,5 @@
 ## <div align="center">Hey 👋, I'm Samarth Kumar!</div>  
-  
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/some-earth11/langs)](https://githubtrends.io)
 
 <a href="https://github.com/some-earth11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
