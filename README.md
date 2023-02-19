@@ -34,13 +34,13 @@ I specialize in building robust projects and writing code that does all the heav
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Country Quiz Web App](https://github.com/some-earth11/CountryQuiz)  
+- 🔭 I’m currently working on my iOS app "Treko".  
   
 
-- 🌱 I’m currently learning Node.js and AWS.  
+- 🌱 I’m currently learning iOS development with Swift and AWS.  
   
 
-- ❓ Ask me about anything related to Programming in Python, Data Science , React and related frontend technologies   
+- ❓ Ask me about anything related to development with the MERN stack .. or python and data science
   
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
