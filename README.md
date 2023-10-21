@@ -23,7 +23,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer in the making who has turned his hobbies into a full-time career. Being a developer allows me to not only develop client websites but also develop it with cutting edge front-end design.
+Hi, I’m a full-stack web developer and iOS Developer.
 
 I specialize in building robust projects and writing code that does all the heavy lifting for your website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
   
@@ -32,7 +32,6 @@ I specialize in building robust projects and writing code that does all the heav
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my iOS app "Treko".  
   
@@ -45,15 +44,6 @@ I specialize in building robust projects and writing code that does all the heav
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
