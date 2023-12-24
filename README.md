@@ -130,15 +130,9 @@ I specialize in building robust projects , I love designing systems that are lig
 
 <br/> 
 <br/>
-<!-- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=some-earth11&show_icons=true&count_private=true&hide_border=true" />
-</div> -->
-<br/>
+
 <div align="center">
-<img src="https://api.githubtrends.io/user/svg/some-earth11/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=bright_lights"  />
-</div>
-<br/>
-<br/>
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=some-earth11&&style=flat-square" />
+
 </div>
