@@ -10,9 +10,6 @@
 <a href="https://linkedin.com/in/samarthkumarofficial" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_some_earth" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://medium.com/@some-earth11" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
@@ -23,9 +20,9 @@
 
 
 ### Glad to see you here!  
-Hi, I’m a Full-stack Web Developer , Python Developer and an iOS Developer.
+Hi, I’m a Full-stack Developer, Data Scientist and a ServiceNow Dev
 
-I specialize in building robust projects , I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+I specialize in building robust projects, I love designing systems and projects that are light yet powerful, distributed yet synchronized and beautiful yet effective.
   
 
 <br/>  
@@ -33,10 +30,10 @@ I specialize in building robust projects , I love designing systems that are lig
 
 ## Rapidfire  
 
-- 🌱 I’m currently fostering my iOS development skills as well as DevOps concepts. 
+- 🌱 I’m currently fostering my Data Science skills with Industry-Grade Projects as well as working as a ServiceNow Developer. 
   
 
-- ❓ Ask me about anything related to Development or Python or... DevOps or... just anything tech!
+- ❓ Ask me about anything related to Development or Python or...just anything tech!
   
 
 - ⚡ Fun fact: I keep night shift switched on at all times (powered by Iced Coffee)
